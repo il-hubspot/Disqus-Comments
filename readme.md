@@ -5,6 +5,7 @@ You need to create a module and edit it as decribed in https://knowledge.hubspot
 
 A demo of this in action can be seen on : http://sqmedia-2660151.hs-sites.com/demo-suf-header-2-codegallery
 
+This is just one of the modules presented within Startup Framework built by InboundLabs. More details can be found in https://w.inboundlabs.co/startup-framework
 
 ## How to use this module 
 You need to copy the content of the .html, .css and .js files into the related parts of the custom module that you have created.
