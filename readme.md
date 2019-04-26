@@ -22,7 +22,7 @@ The Disqus comments modules allows you to:
 
 Disqus Comments module demo can be visited here:
 
-
+https://w.inboundlabs.co/disqus-comments-suf-demo
 
 ---
 
